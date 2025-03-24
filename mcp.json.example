@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "blender": {
+            "command": "/path/to/blender-mcp/.venv/bin/python",
+            "args": [
+                "-m",
+                "blender_mcp.server",
+                "--port",
+                "9876"
+            ]
+        }
+    }
+} 
