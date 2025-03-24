@@ -30,5 +30,5 @@ build-backend = "setuptools.build_meta"
 package-dir = {"" = "src"}
 
 [project.urls]
-"Homepage" = "https://github.com/yasaryilmaz/blender-mcp"
-"Bug Tracker" = "https://github.com/yasaryilmaz/blender-mcp/issues"
+"Homepage" = "https://github.com/yasar38/blender-mcp"
+"Bug Tracker" = "https://github.com/yasar38/blender-mcp/issues"
